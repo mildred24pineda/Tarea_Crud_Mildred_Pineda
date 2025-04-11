@@ -17,7 +17,7 @@ namespace Tarea_crud_
         private void ConfigureUI()
         {
             // Configuración general del formulario
-            this.Text = "SISTEMA DE GESTIÓN DE ALUMNOS Y TAREAS";
+            this.Text = "ALUMNOS Y TAREAS";
             this.BackColor = Color.LightSteelBlue;
             this.Font = new Font("Segoe UI", 9, FontStyle.Regular);
             this.Size = new Size(900, 650);
